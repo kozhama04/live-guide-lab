@@ -1,2 +1,14 @@
 # live-guide-lab
-HTML page archive and documentation
+
+资料页面发布仓库
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 发布目录
+
+- HTML 文件保存在当前仓库
+- GitHub Pages 可用于公开访问
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
